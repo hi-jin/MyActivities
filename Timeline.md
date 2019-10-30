@@ -25,7 +25,7 @@ about my activities of CSE
 - Regional Specialized Industry Leading Business Competency Enhancement Program (지역특화산업선도실무역량강화프로그램)
 - Deep Learning
 
-2019.10.16 ~ 2019.11.08
+2019.10.16 ~ 2019.11.07
 - ProBrain
 - Webolution (idea division)
 
