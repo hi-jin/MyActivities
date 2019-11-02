@@ -7,6 +7,23 @@ about my activities of CSE
 - Algorithm competition
 - 2nd prize
 
+2019.05.24 ~ 2019.08.19
+- Bottom-up
+- project competition
+- 충머위키
+
+2019 Summer ARGOS study
+- swift programming (맥 써보쉴?)
+- swift programming study
+
+2019 Summer ARGOS study
+- Heap study (Heap 찔이)
+- system hacking(heap) study
+
+2019.06.26. ~ 2019.08.16.
+- Mogaco Club (이~잉나니머스)
+- study club
+
 2019.07.31. ~ 2019.08.07.
 - SiliconValley short-term training
 - 51Conference
