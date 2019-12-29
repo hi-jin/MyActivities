@@ -59,3 +59,7 @@ about my activities of CSE
 - 2019 Just For Security CTF (JFS)
 - CTF
 - 3rd prize
+
+2019.12.27 ~ 2019.12.29
+- personal programming project
+- https://github.com/hi-jin/CNUCSE_Notifier-Client (CNUCSE Notifier)
