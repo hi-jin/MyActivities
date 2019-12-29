@@ -1,5 +1,7 @@
-# MyActivities
+MyActivities
+============
 about my activities of CSE
+--------------------------
 
 2019.06.01.
 - ARGOS
@@ -50,8 +52,10 @@ about my activities of CSE
 - GROW
 - AICon
 - Arduino
+- 2nd prize
 
 2019.11.10
 - ARGOS
 - 2019 Just For Security CTF (JFS)
 - CTF
+- 3rd prize
