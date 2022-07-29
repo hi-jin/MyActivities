@@ -31,18 +31,18 @@ about my activities of CSE
 - 51Conference
 - PostConference
 
-2019.09.26. ~ 
+2019.09.26. ~ 2019.11.30
 - PAI Regional Specialized Industry Leading Business Competency Enhancement Program (지역특화산업선도실무역량강화프로그램)
 - Reinforcement Learning
 - Autonomous driving cars with raspberry pi
 
-2019.09.29. ~ 
+2019.09.29. ~ 2020.02.04
 - Start-up Club, Commune
 - Item : Qunswer
 
-2019.10.05 ~ 
+2019.10.05 ~ 2019.11.30
 - Regional Specialized Industry Leading Business Competency Enhancement Program (지역특화산업선도실무역량강화프로그램)
-- Deep Learning
+- Deep Learning study
 
 2019.10.16 ~ 2019.11.07
 - ProBrain
@@ -63,3 +63,21 @@ about my activities of CSE
 2019.12.27 ~ 2019.12.29
 - personal programming project
 - https://github.com/hi-jin/CNUCSE_Notifier-Client (CNUCSE Notifier)
+
+2020.02.17 ~ 2021.10.22
+- Republic of Korea Navy
+
+2022.05.06 ~ present
+- internship [제4의공간]
+- flutter
+
+2022.05.28
+- dev day, coding test
+- 3rd prize
+
+2022.06.30 ~ 2022.08.19
+- Mogaco Club (세계서 걸어속으로)
+- study club
+
+2022.07.19 ~ 2022.07.21
+- coding-x, AIAI summer school
