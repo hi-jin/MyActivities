@@ -29,7 +29,6 @@ about my activities of CSE
 2019.07.31. ~ 2019.08.07.
 - SiliconValley short-term training
 - 51Conference
-- PostConference
 
 2019.09.26. ~ 2019.11.30
 - PAI Regional Specialized Industry Leading Business Competency Enhancement Program (지역특화산업선도실무역량강화프로그램)
@@ -81,3 +80,13 @@ about my activities of CSE
 
 2022.07.19 ~ 2022.07.21
 - coding-x, AIAI summer school
+- education
+
+2022.08.22
+- My first mobile app was distributed!
+- 기억하다
+- on Appstore, Playstore
+
+2022.09.26 ~ 
+- KAIST Micro Degree on Basic Machine Learning
+- education
